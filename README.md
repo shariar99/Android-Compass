@@ -1,6 +1,6 @@
 # Android-Compass
 
-# Compass App
+
 
 This is a simple Android compass app that uses the device's magnetic field sensor to display the orientation.
 
